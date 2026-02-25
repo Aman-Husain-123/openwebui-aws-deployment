@@ -3,18 +3,6 @@
 ## 🌟 Overview
 This project deploys an Open WebUI (ChatGPT-like) instance on AWS EC2, enabling user registration, multi-model access, and real-time monitoring with Grafana + OTEL.
 
-## 📸 Screenshots
-> Place your screenshots in the `Chatgpt/screenshots/` folder for them to display below!
-
-- 🏠 Home / prompt page
-  ![Open WebUI Home](screenshots/open-webui-home.png)
-- 💬 Chat / conversation view
-  ![Open WebUI Chat](screenshots/open-webui-chat.png)
-- 📊 Grafana monitoring dashboard
-  ![Grafana Dashboard](screenshots/grafana-dashboard.png)
-- 🖥️ EC2 terminal showing Docker / containers
-  ![EC2 Docker Terminal](screenshots/docker-terminal.png)
-
 ## 📁 Repository Layout
 - 🔑 `aman_euri_new.ppk` — SSH key (PuTTY) for EC2 access
 - 🟢 `open_webui_monitoring_json_9SsY.json` — Grafana dashboard config
